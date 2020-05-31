@@ -1,0 +1,69 @@
+PROGRAM Test
+
+
+var Xe: INTEGER £
+// var Xe: INTEGER £ //
+
+//var Poids||Tp||Massee: FLOAT £//
+
+let Abc: INTEGER = 2£
+//let Abc: INTEGER = 2£//
+let Drre854 : STRING = "" £
+let Abc1: INTEGER = 0£
+
+var Tab[10]:[INTEGER] £
+//var Tab[10]:[CHAR] £//
+
+BEGIN
+
+
+Xe = (( (3+2)/9)*Tab[Ie])-Tab[1]+Abc £
+//Abc = 25£//
+
+SHOW ("Hello World !") £
+
+SHOW ("Hello 
+    World 
+   !") £
+SHOW ("Xe = $", Xe) £
+
+GET ("$": @Xe)£
+
+
+IF (Xe >> 7)
+{
+		Ae = 7£
+}
+ENDIF
+
+IF (Xe >> Xe +2)
+{
+	   Ae = 7£
+           SHOW ("je suis la") £
+           IF (Xe >> Xe *30)
+           {
+		Ae = 7£
+            }
+            ENDIF
+           RETURN (Xe + 1)£
+}
+ELSE
+{
+    Ae = Ae + 2£
+    RETURN (Ae)£
+}
+ENDIF
+
+FOR(Xe: 2: Xe << (Ae-3)/8)
+GET ("%": @Ae)£
+END_FOR
+
+END
+
+
+
+
+
+// C'est le deuxième commentaire
+dans mon présent programme :) 0247&-852//
+

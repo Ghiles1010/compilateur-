@@ -1,0 +1,60 @@
+﻿PROGRAM Test
+
+
+VAR Xe || Ae || Ie: INTEGER £
+// var Xe: INTEGER £ //
+
+VAR Poids || Tp || Massee: FLOAT £
+
+let Abc: INTEGER = 2£
+//let Abc: INTEGER = 2£//
+LET Drre854 : STRING = << >> £
+LET Abc1: INTEGER = 0£
+
+VAR Tab[10]:[INTEGER]£ 
+
+//var Tab[10]:[CHAR] £//
+
+BEGIN
+
+
+Xe = (( (3+2)/9)*Tab[Ie])-Tab[1]+Abc £
+
+Ie=Xe +2 £
+
+
+//Abc = 25£//
+
+
+IF (Xe >> Ie +2)
+{
+	   Ae = 7£
+           
+           IF (Xe >> Xe *30)
+           {
+		Ae = 7£
+                RETURN (Xe + 1)
+            }
+            ENDIF
+  RETURN (Xe + 1)         
+}
+ELSE:
+{
+    Ae = Ae + 2£
+    RETURN (Ae)
+}
+ENDIF
+
+FOR(Xe: 2: Xe << (Ae-3)/8)
+Xe=Xe +2£
+END_FOR
+
+END
+
+
+
+
+
+// C'est le deuxième commentaire
+dans mon présent programme :) 0247&-852//
+

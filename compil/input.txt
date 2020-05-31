@@ -1,0 +1,44 @@
+PROGRAM Acad
+	
+	//commentaire
+	
+	
+	dqbwqdihbdwq
+	//
+	
+	
+//jgvjgvjgvjgvjgv//
+	
+VAR X ||X|| Y ||Z||I: INTEGER£
+VAR Tab[50]:[STRING]£
+LET Cst INTEGER = 0£
+LET A CHAR='r'£
+
+VAR Y:INTEGER£
+
+
+
+BEGIN
+
+IF(Y>>Z){
+
+
+A=A--3£
+A=2-(3+2)£
+A=A+4+3£
+A=A/3£
+A=2*3£
+A=X/Tab[90]£
+RETURN(I)
+}
+ELSE:{
+
+A=X/Tab[90]£
+
+RETURN(I)
+
+}
+ENDIF
+
+
+END

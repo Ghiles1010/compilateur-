@@ -1,0 +1,41 @@
+PROGRAM Test
+
+
+var  Ae || Ie: INTEGER £
+// var Xe: INTEGER £ //
+
+// var Xe: FLOAT £ //      // Variable double declarée//       
+var Poids||Tp||Massee: FLOAT £
+
+let Abc: INTEGER = 2£
+//let Abc: INTEGER = 2£//    // constante  double declarée//               
+let Drre854 : STRING = "" £
+let Abc1: INTEGER = 0£
+
+var Tab[10]:[INTEGER] £
+//var Tab[10]:[CHAR] £//
+
+BEGIN
+
+
+Xe = (( (3+2)/9)*Tab[Ie])-Tab[1]+Abc £   // variable non declaré // 
+
+//============Incompatibilité de type============== //       
+    // Ie=Xe +2 £   // 
+       Ie=3,14£ 
+       Ie="message"£ 
+       Drre854= 12233£ 
+
+       GET ("%": @Ae)£
+       SHOW ("%": @Ae)£
+
+
+END
+
+
+
+
+
+// C'est le deuxième commentaire
+dans mon présent programme :) 0247&-852//
+
